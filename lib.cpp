@@ -1,5 +1,5 @@
 #include <iostream>
-#include 'lib.h'
+#include "lib.h"
 
 int bodyguard (char lista[][20], char nome [20]) {
     int i=0, j=0;
